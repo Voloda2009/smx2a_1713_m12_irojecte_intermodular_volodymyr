@@ -18,7 +18,8 @@ This preview supports *italic*, **bold**, ***bold+italic***, ~~strikethrough~~, 
 
 ## Image
 
-![Sample chart](Photos/IMG_20260430_191029.jpg)
+<img src="Photos/IMG_20260430_191029.jpg" width="40%">
+
 
 ## Code blocks
 
