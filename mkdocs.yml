@@ -5,3 +5,4 @@ theme:
 
 nav:
   - Inici: index.md
+  - Grup: grup.md
