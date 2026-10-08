@@ -18,7 +18,7 @@ This preview supports *italic*, **bold**, ***bold+italic***, ~~strikethrough~~, 
 
 ## Image
 
-<img src="Photos/IMG_20260430_191029.jpg" width="40%">
+<img src="Img/IMG_20260430_191029.jpg" width="40%">
 
 
 ## Code blocks
