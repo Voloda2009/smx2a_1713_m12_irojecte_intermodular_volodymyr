@@ -2,7 +2,10 @@
 
 This preview supports *italic*, **bold**, ***bold+italic***, ~~strikethrough~~, and inline code like `npm run dev`.
 
-## Headers
+## La Taula del Barri
+## Logo
+
+<img src="Img\2026-10-08_190848747.png" width="20%">
 
 ### H3 Section
 #### H4 Section
