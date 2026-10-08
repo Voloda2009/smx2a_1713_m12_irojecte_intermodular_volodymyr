@@ -18,7 +18,7 @@ This preview supports *italic*, **bold**, ***bold+italic***, ~~strikethrough~~, 
 
 ## Image
 
-![Sample chart](img/IMG_20260430_191029.jpg)
+![Sample chart](Photos/IMG_20260430_191029.jpg)
 
 ## Code blocks
 
