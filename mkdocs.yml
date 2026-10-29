@@ -6,3 +6,4 @@ theme:
 nav:
   - Inici: index.md
   - Grup: grup.md
+  - Plugins_y_configuracion: Plugins_y_configuracion.md
