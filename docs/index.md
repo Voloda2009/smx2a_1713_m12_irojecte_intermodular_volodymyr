@@ -1,8 +1,5 @@
-# Markdown Playground Demo
-
-This preview supports *italic*, **bold**, ***bold+italic***, ~~strikethrough~~, and inline code like `npm run dev`.
-
-## La Taula del Barri
+# Sobre nuestro sitio web!
+## Restaurante de proximidad La Taula del Barri
 ## Logo
 
 <img src="Img\2026-10-08_190848747.png" width="20%">
