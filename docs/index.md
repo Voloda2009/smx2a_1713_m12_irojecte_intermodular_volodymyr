@@ -58,6 +58,17 @@
 #### El restaurante debe estar abierto ese día.
 #### La hora debe corresponder al horario laboral establecido.
 #### La franja horaria debe estar libre (el sistema rechaza duplicados y evita solicitudes simultáneas para la misma hora).
+<br>
+
+## 5.Elementos visuales y técnicos de la vitrina
+<br>
+
+### Logotipo del restaurante
+<img src="Img\Logo.jpg" width="80%">
+<br>
+
+### Capturas de pantalla reales (o maquetas)
+<img src="Img\Web.jpg" width="100%">
 
 
 
