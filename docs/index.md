@@ -1,12 +1,35 @@
 # Sobre nuestro sitio web!
-## Restaurante de proximidad La Taula del Barri
-## Logo
 
+## Restaurante de proximidad La Taula del Barri 
 <img src="Img\2026-10-08_190848747.png" width="20%">
 
-### H3 Section
-#### H4 Section
-##### H5 Section
+## 1.Concepto y descripción del negocio
+
+### Descripción de la actividad: Cocina casera, productos locales y ambiente familiar.
+
+### Problema que resuelve la aplicación: Pasar de una gestión caótica de reservas (llamadas, mensajes y notas dispersas) a un sistema automatizado de reservas a través del navegador.
+
+## 2.Información sobre horarios y condiciones
+
+### Días de apertura: De lunes a sábado (domingo cerrado).
+
+### Horarios laborales:
+#### De 13:00 a 15:00
+#### De 20:00 a 22:00
+
+### Franjas horarias disponibles:
+#### 13:00, 14:00, 20:00 y 21:00 (duración de cada reserva: 1 hora).
+
+### Capacidad: 
+#### Capacidad: Hasta 12 personas por reserva.
+
+### Zona horaria: 
+#### Hora local de Barcelona.
+
+
+
+
+
 
 ## Lists
 
