@@ -9,7 +9,7 @@
 <br>
 
 ### ¿Qué es mkdocs.yml?
-#### Es el archivo principal de configuración del sitio web (nombre, tema, navegación).
+#### L'arxiu mkdocs.yml és el fitxer de configuració principal del vostre lloc web estàtic. Hi s'defineix el títol del projecte, el tema visual, l'estructura de la barra de navegació superior i els complements (plugins) actius.
 <br>
 
 - Ejemplo de cambio:
@@ -22,7 +22,7 @@ theme:
 <br>
 
 ### ¿Qué es deploy.yml?
-#### Es el archivo de GitHub Actions para la compilación y publicación automática del sitio en GitHub Pages tras cada commit.
+#### L'arxiu deploy.yml (ubicat generalment a .github/workflows/deploy.yml) forma part de GitHub Actions. La seva funció és automatitzar el procés de construcció (build) i publicació (deploy) de la web cada vegada que es puja (push) un canvi al repositori, pujant el resultat directament a GitHub Pages.
 <br>
 
 - Ejemplo de cambio:
