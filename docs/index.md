@@ -19,10 +19,6 @@ This preview supports *italic*, **bold**, ***bold+italic***, ~~strikethrough~~, 
 1. Ordered step one
 2. Ordered step two
 
-## Image
-
-<img src="Img/IMG_20260430_191029.jpg" width="20%">
-
 
 ## Code blocks
 
