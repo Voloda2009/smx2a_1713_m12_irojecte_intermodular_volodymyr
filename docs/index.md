@@ -8,6 +8,7 @@
 ### Descripción de la actividad: Cocina casera, productos locales y ambiente familiar.
 
 ### Problema que resuelve la aplicación: Pasar de una gestión caótica de reservas (llamadas, mensajes y notas dispersas) a un sistema automatizado de reservas a través del navegador.
+<br>
 
 ## 2.Información sobre horarios y condiciones
 
